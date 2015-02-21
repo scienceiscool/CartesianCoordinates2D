@@ -1,11 +1,11 @@
 CS223P - Python Programming
 
-Author Name: Kathy Saad
-Project Title: Assignment 3 - Classes - Cartesian 2D Coordinates
-Project Status: Working
-External Resources:
-- https://www.python.org/
-- https://www.google.com/
+Author Name: Kathy Saad<br>
+Project Title: Assignment 3 - Classes - Cartesian 2D Coordinates<br>
+Project Status: Working<br>
+External Resources:<br>
+- https://www.python.org/<br>
+- https://www.google.com/<br>
 
 **********************************************************************************************************************
 
