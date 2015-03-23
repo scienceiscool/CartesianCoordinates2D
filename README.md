@@ -1,20 +1,17 @@
-CS223P - Python Programming
+#CS223P - Python Programming
 
-Author Name: Kathy Saad<br>
-Project Title: Assignment 3 - Classes - Cartesian 2D Coordinates<br>
-Project Status: Working<br>
-External Resources:<br>
+__Author Name:__ Kathy Saad<br>
+__Project Title:__ Assignment 3 - Classes - Cartesian 2D Coordinates<br>
+__Project Status:__ Working<br>
+__External Resources:__<br>
 - https://www.python.org/<br>
 - https://www.google.com/<br>
 
 **********************************************************************************************************************
 
-Instructions:
+__Instructions:__ Write a class that defines a two-dimensional Cartesian coordinate. Write the class such that the following Python program executes correctly. Save the class and the main function in a file named Cartesian2D.py. The two-dimensional Cartesian coordinate and main function must all be in the same file and named cartesian_demo.py.
 
-    Write a class that defines a two-dimensional Cartesian coordinate. Write the class such that the following Python program executes correctly. Save the class and the main function in a file named Cartesian2D.py.
-
-    The two-dimensional Cartesian coordinate and main function must all be in the same file and named cartesian_demo.py.
-
+```
     #/usr/bin/env python3.3
     #
     # Your header here
@@ -65,10 +62,11 @@ Instructions:
 
       if __name__ == "__main__":
         main( )
+```
 
 **********************************************************************************************************************
 
-Output:
+__Output:__
 
 	The distance from a to b is 2.7202941017470885
 	The distance from b to c is 3.8999999999999995
