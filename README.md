@@ -1,4 +1,4 @@
-#CS223P - Python Programming
+#CPSC 223P - Python Programming
 
 __Author Name:__ Kathy Saad<br>
 __Project Title:__ Assignment 3 - Classes - Cartesian 2D Coordinates<br>
